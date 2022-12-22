@@ -17,3 +17,4 @@ class Solution {
         return new String(arr);
     }
 }
+It takes the string array as an argument and returns the string representation of the array
